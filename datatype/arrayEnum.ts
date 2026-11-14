@@ -135,7 +135,7 @@ console.log(haveChai);
 
 enum price {
     small = 10,
-    medium = 20,
+    medium = 25,
     large
 }
 
